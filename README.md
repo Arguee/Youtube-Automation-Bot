@@ -30,7 +30,8 @@ This is a youtube bot which uploads youtube video present in Videos folder one b
 
 ## Uploader
 
-You can configure more in `bot.py`.
++ You can configure more in `bot.py`.
++ Change text from `title.txt` to your videos title.
 ## Feedback
 
 If you have any feedback, please reach out tome at 
