@@ -34,7 +34,7 @@ This is a youtube bot which uploads youtube video present in Videos folder one b
 + Change text from `title.txt` to your videos title.
 ## Feedback
 
-If you have any feedback, please reach out tome at 
+If you have any feedback, please reach out to me at 
 `!Argue#6693` on Discord
 
 
