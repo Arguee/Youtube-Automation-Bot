@@ -25,7 +25,7 @@ This is a youtube bot which uploads youtube video present in Videos folder one b
 + Configure the OAuth consent screen with your bot's name and email address. Choose "External" as the user type
 + Select "Desktop app" as the application type, give it a name, and create the client ID.
 + Download the client secret JSON file by clicking the download icon next to the client ID.
-+ And Save it as `youtube.json` in `api folder`.
++ And Save it as `youtube2.json` in `api folder`.
 
 
 ## Uploader
