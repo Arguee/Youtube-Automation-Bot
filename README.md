@@ -12,7 +12,7 @@ This is a youtube bot which uploads youtube video present in Videos folder one b
 
 
 ## Requirements
-+ ``` pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client pytz```
++ ``` pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client pytz art```
 
 
 ## Steps
