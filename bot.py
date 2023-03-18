@@ -19,12 +19,12 @@ print(art_1)
 # Set up OAuth2 credentials
 creds = None
 if os.path.exists('token.json'):
-    creds = Credentials.from_authorized_user_file('api/token.json')
+    creds = Credentials.from_authorized_user_file('api/token2.json')
 if not creds or not creds.valid:
     if creds and creds.expired and creds.refresh_token:
         creds.refresh(Request())
     else:
-        flow = InstalledAppFlow.from_client_secrets_file('api/youtube.json', scopes=['https://www.googleapis.com/auth/youtube.force-ssl'])
+        flow = InstalledAppFlow.from_client_secrets_file('api/youtube2.json', scopes=['https://www.googleapis.com/auth/youtube.force-ssl'])
         creds = flow.run_local_server(port=0)
         
     # Save the credentials for the next run
