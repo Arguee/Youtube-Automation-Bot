@@ -1,6 +1,7 @@
 # Youtube Upload and Schedule Bot
 
 This is a youtube bot which uploads youtube video present in Videos folder one by one and schedule each video on 30 minutes interval. You can also change the interval.
+
 This bot was made to automate youtube uploading mostly for short form content. You can contact me to make your channel semi-automated.
 
 
