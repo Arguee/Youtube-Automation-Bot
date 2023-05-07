@@ -1,17 +1,13 @@
 # <div align = "center"> Youtube Automation Bot </div> </a>
 
+![Youtube x Python Image](https://res.cloudinary.com/practicaldev/image/fetch/s--UJMX0wcf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kr8qigb94o7vbyjfap9k.jpg)
+
+
+<p align=center>This is a semi-automated youtube bot which allows users to upload multiple videos in bulk, eliminating the need for manual uploading one video at a time. This saves significant time and effort, especially for channels with frequent content releases. The bot offers a scheduling feature that enables users to specify the interval between each video upload. Users have the flexibility to set specific intervals between video uploads according to their channel's requirements.</p>
 
 
 
-This is a youtube bot which uploads youtube video present in Videos folder one by one and schedule each video on 30 minutes interval. You can also change the interval.
-
-This bot was made to automate youtube uploading mostly for short form content. You can contact me to make your channel semi-automated.
-
-
-
-
-
-## Authors
+## Programmed By
 
 - [@Argue](https://github.com/Arguee/)
 
