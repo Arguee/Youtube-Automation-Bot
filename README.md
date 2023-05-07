@@ -39,6 +39,6 @@ If you have any feedback, please reach out to me at
 `!Argue#6693` on Discord
 
 
-## Work
+## Error
 
-Seeking work for my Porfolio contact me via Discord.
+I may have messed up little with filenames. You can fix it I bet
