@@ -1,4 +1,4 @@
-# <div align = "center"> Youtube Upload and Schedule Bot </div> </a>
+# <div align = "center"> Youtube Automation Bot </div> </a>
 
 
 
