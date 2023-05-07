@@ -16,7 +16,7 @@
 + ``` pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client pytz art```
 
 ## Note
-+ You can upload max 6 videos with this bot, but I recommend uploading 5 videos. This is because of the youtube api's daily quota limit.
++ You can upload max 6 videos with this bot daily, but I recommend uploading 5 videos. This is because of the youtube api's daily quota limit.
 
 ## Steps
 + Go to the Google Cloud Console [Cloud Console](https://console.cloud.google.com/) and create a new project.
