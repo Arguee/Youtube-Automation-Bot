@@ -7,18 +7,19 @@
 
 
 
-## Programmed By
+## 👨‍💻 Author 
 
 - [@Argue](https://github.com/Arguee/)
 
 
-## Requirements
+## ⚒ Requirements
 + ``` pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client pytz art```
 
-## Note
-+ You can upload max 6 videos with this bot daily, but I recommend uploading 5 videos. This is because of the youtube api's daily quota limit.
+## 📙 Note
++ You can upload max 6 videos with this bot daily, but I recommend uploading 5 videos. This is because of the youtube api's daily quota limit. If you need to upload more just request an extension.
 
-## Steps
+
+## 🎉 Steps
 + Go to the Google Cloud Console [Cloud Console](https://console.cloud.google.com/) and create a new project.
 + Once you have created the project, click on the hamburger menu on the top-left corner, and navigate to APIs & Services > Dashboard.
 + Click on "+ ENABLE APIS AND SERVICES" button, and search for "YouTube Data API v3". Select it and enable the API.
@@ -29,16 +30,17 @@
 + And Save it as `youtube2.json` in `api folder`.
 
 
-## Uploader
+## 🧨 Uploader
 
 + You can configure more in `bot.py`.
 + Change text from `title.txt` to your videos title.
-## Feedback
+
+## 📡 Feedback
 
 If you have any feedback, please reach out to me at 
 `!Argue#6693` on Discord
 
 
-## Error
+## 📉 Error
 
 I may have messed up little with filenames. You can fix it I bet
