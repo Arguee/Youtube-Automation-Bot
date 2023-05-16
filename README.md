@@ -11,36 +11,18 @@
 
 - [@Argue](https://github.com/Arguee/)
 
+## Potential Of The Bot
 
-## ⚒ Requirements
-+ ``` pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client pytz art```
+### CLICK the image below
 
-## 📙 Note
-+ You can upload max 6 videos with this bot daily, but I recommend uploading 5 videos. This is because of the youtube api's daily quota limit. If you need to upload more just request an extension.
-
-
-## 🎉 Steps
-+ Go to the Google Cloud Console [Cloud Console](https://console.cloud.google.com/) and create a new project.
-+ Once you have created the project, click on the hamburger menu on the top-left corner, and navigate to APIs & Services > Dashboard.
-+ Click on "+ ENABLE APIS AND SERVICES" button, and search for "YouTube Data API v3". Select it and enable the API.
-+ Navigate to APIs & Services > Credentials, and click on "+ CREATE CREDENTIALS". Select "OAuth client ID".
-+ Configure the OAuth consent screen with your bot's name and email address. Choose "External" as the user type
-+ Select "Desktop app" as the application type, give it a name, and create the client ID.
-+ Download the client secret JSON file by clicking the download icon next to the client ID.
-+ And Save it as `youtube2.json` in `api folder`.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3qAJrQKENy8/mqdefault.jpg)](https://www.youtube.com/watch?v=3qAJrQKENy8&)
 
 
-## 🧨 Uploader
 
-+ You can configure more in `bot.py`.
-+ Change text from `title.txt` to your videos title.
 
-## 📡 Feedback
+## 📡 Contact me to buy
 
-If you have any feedback, please reach out to me at 
+If you want to buy the script, please reach out to me at 
 `!Argue#6693` on Discord
 
 
-## 📉 Error
-
-I may have messed up little with filenames. You can fix it I bet
