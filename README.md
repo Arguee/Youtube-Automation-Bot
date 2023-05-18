@@ -13,7 +13,7 @@
 
 ## Potential Of The Bot
 
-### CLICK the image below
+###  <p>CLICK the image below </p>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3qAJrQKENy8/mqdefault.jpg)](https://www.youtube.com/watch?v=3qAJrQKENy8&)
 
