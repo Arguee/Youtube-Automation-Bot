@@ -25,4 +25,8 @@
 If you want to buy the script, please reach out to me at 
 `Argue#6693` on Discord or mail me on arguehelp@gmail.com
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Arguee/Youtube-Automation-Bot&type=Date)](https://star-history.com/#Arguee/Youtube-Automation-Bot&Date)
+
 
