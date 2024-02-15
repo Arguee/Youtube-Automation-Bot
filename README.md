@@ -23,7 +23,7 @@
 ## 📡 Contact me to buy
 
 If you want to buy the script, please reach out to me at 
-`Argue#6693` on Discord or mail me on arguehelp@gmail.com
+`arguexd` on Discord or mail me on arguehelp@gmail.com
 
 ## Star History
 
