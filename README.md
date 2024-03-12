@@ -1,31 +1,60 @@
-# <div align = "center"> Youtube Automation Bot </div> </a>
+<h2 align="center"> Hi 👋 , This is a Youtube Bot  <br/></h2>
 
-![Youtube x Python Image](https://res.cloudinary.com/practicaldev/image/fetch/s--UJMX0wcf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kr8qigb94o7vbyjfap9k.jpg)
-
-
-<p align=center>This is a semi-automated YouTube bot that allows users to upload multiple videos in bulk, eliminating the need for manually uploading one video at a time. This saves significant time and effort, especially for channels with frequent content releases. The bot offers a scheduling feature that enables users to specify the interval between each video upload. Users have the flexibility to set specific intervals between video uploads according to their channel's requirements.</p>
+ ![Youtube x Python Image](https://imgur.com/h6PWvs3.png) 
 
 
+<h3>
+🚀 Introducing our cutting-edge YouTube automation tool: 
+  <br>
+  <br>
+📹 Revolutionize your video uploading process with our bulk-upload feature, eliminating the time-consuming task of manual uploads.
+  <br>
+  <br>
+📅 Our sophisticated scheduling function empowers you to tailor upload intervals, ensuring maximum flexibility to meet the demands of your channel.
+  <br>
+  <br>
+💪 Elevate productivity levels and channel your energy into crafting captivating content that resonates with your audience.
+  <br>
+  <br>
+  <br>
+</h3>
 
-## 👨‍💻 Author 
-
-- [@Argue](https://github.com/Arguee/)
-
-## Potential Of The Bot
-
-###  <p>CLICK the image below </p>
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3qAJrQKENy8/mqdefault.jpg)](https://www.youtube.com/watch?v=3qAJrQKENy8&)
 
 
+<h1 align="center">👨‍💻 Author </h1> 
+<h5 align="center"> 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/842978764690030593)](https://discord.com/users/842978764690030593)
+</h5>
+  <br>
+
+  <br>
 
 
-## 📡 Contact me to buy
+<h1 align="center">🌟 Potential of the Bot </h1> 
+<div align="center">
+<h4>
+Unlock the full potential of our YouTube bot! 🚀 Watch the video below to see how it simplifies uploading, saving you time. ⏱️ Don't miss out on boosting your content creation efficiency! </h4>
+
+<a>
+<img align="center" a href='https://www.youtube.com/watch?v=3qAJrQKENy8&'><img src='https://img.youtube.com/vi/3qAJrQKENy8/mqdefault.jpg'></a>
+
+  
+</div>
+ <br>
+  <br>
+
+
+<h1 align="center">📧 Contact to Buy </h1> 
 
 If you want to buy the script, please reach out to me at 
 `arguexd` on Discord or mail me on arguehelp@gmail.com
 
-## Star History
+<br>
+<br>
+
+
+<h1 align="center">⭐ Star History</h1> 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Arguee/Youtube-Automation-Bot&type=Date)](https://star-history.com/#Arguee/Youtube-Automation-Bot&Date)
 
