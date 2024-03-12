@@ -38,6 +38,8 @@ Unlock the full potential of our YouTube bot! 🚀 Watch the video below to see 
 
 <a>
 <img align="center" a href='https://www.youtube.com/watch?v=3qAJrQKENy8&'><img src='https://img.youtube.com/vi/3qAJrQKENy8/mqdefault.jpg'></a>
+<br>
+<a align="center" href="https://www.youtube.com/watch?v=3qAJrQKENy8&">CLCK ME</a>
 
   
 </div>
