@@ -17,9 +17,24 @@
   <br>
   <br>
   <br>
+
 </h3>
 
+<h2>Upcoming Features / Features added</h2> <br>
+<h3> 
+🎈 Automatically uploads video ✅ <br>
+⏰ Automatically schedules videos on a specific interval ✅ <br>
+0️⃣ Serial Titling system ✅ <br>
+🔄 Automatically Deletes the uploaded video ✅ <br>
+🖥️ Graphical User Interface <br>
+🤖 Multiple api support<br>
+💬 Comment spammer <br>
+📥 Download Youtube videos</h3>
 
+
+
+  <br>
+    <br>
 
 <h1 align="center">👨‍💻 Author </h1> 
 <h5 align="center"> 
@@ -29,6 +44,7 @@
   <br>
 
   <br>
+
 
 
 <h1 align="center">🌟 Potential of the Bot </h1> 
