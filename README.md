@@ -66,7 +66,7 @@ Unlock the full potential of our YouTube bot! 🚀 Watch the video below to see 
 <h1 align="center">📧 Contact to Buy </h1> 
 
 If you want to buy the script, please reach out to me at 
-`arguexd` on Discord or mail me on arguehelp@gmail.com
+`arguexd` on Discord
 
 <br>
 <br>
