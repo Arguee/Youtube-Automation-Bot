@@ -25,7 +25,8 @@
 🎈 Automatically uploads video ✅ <br>
 ⏰ Automatically schedules videos on a specific interval ✅ <br>
 0️⃣ Serial Titling system ✅ <br>
-🔄 Automatically Deletes the uploaded video from video folder ✅ <br>
+🔄 Automatically Deletes the uploaded video from the video folder ✅ <br>
+ :cookie: Discord Rich Presence <br>
 🖥️ Graphical User Interface <br>
 🤖 Multiple api support<br>
 💬 Comment spammer <br>
