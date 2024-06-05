@@ -66,7 +66,7 @@ Unlock the full potential of our YouTube bot! 🚀 Watch the video below to see 
 
 <h1 align="center">📧 Contact to Buy </h1> 
 
-If you want to buy the script - https://payhip.com/b/026F7 , or else reach out to me at 
+If you want to buy the script reach out to me at 
 `arguexd` on Discord or https://discord.gg/j5Xwh4Fnyv this is the discord server
 
 <br>
